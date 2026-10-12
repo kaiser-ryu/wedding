@@ -16,14 +16,6 @@ README.md    이 설명서
 
 파일을 고친 뒤 main 에 올리기만 하면 1분 안에 반영됩니다. (GitHub 웹에서 파일을 열어 연필 아이콘 → 수정 → Commit changes 해도 됩니다)
 
-### 회사 제출용 버전 (`info/`)
-
-- 주소: https://kaiser-ryu.github.io/wedding/info/
-- 파일: `info/index.html` (가족용 `index.html`과 별개로 고칩니다)
-- 가족용과 다른 점: 신부 측 부친 성함 제외, 시간(낮 12시) 표시, **일시 · 장소** 섹션 추가
-  (영의정 · 경기 의정부시 범골로145번길 40 궁전빌딩 3층, 네이버 지도·카카오맵 링크)
-- 장소·시간은 `info/index.html` 의 `CONFIG` 에서 `venue`, `date.hour` 로 고칩니다.
-
 ## 2. 미리보기 카드
 
 `index.html` 윗부분의 `og:image` / `og:url` 두 줄이 위 주소로 들어가 있습니다. 카카오톡은 미리보기를 한동안 기억하므로, 이미지나 제목을 바꾼 뒤 옛 카드가 보이면
